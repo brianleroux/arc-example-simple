@@ -1,3 +1,3 @@
-def handler (event, context)
+def handler (req)
   {'ok': true}
 end
