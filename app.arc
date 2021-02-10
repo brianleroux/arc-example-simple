@@ -2,7 +2,7 @@
 begin-app
 
 @aws
-runtime ruby2.7
+runtime python3.8 #ruby2.7
 
 @http
 /
