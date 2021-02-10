@@ -1,5 +1,10 @@
 @app
 begin-app
 
-@static
+@aws
+runtime ruby
+
 @http
+/
+  method any
+  src .
