@@ -2,7 +2,7 @@
 begin-app
 
 @aws
-runtime python3.8 #ruby2.7
+runtime deno #nodejs14.x python3.8 ruby2.7
 
 @http
 /
