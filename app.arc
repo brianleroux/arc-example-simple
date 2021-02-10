@@ -2,7 +2,7 @@
 begin-app
 
 @aws
-runtime ruby
+runtime ruby2.7
 
 @http
 /
