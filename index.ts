@@ -1,3 +1,3 @@
-exports async function handler() {
+export async function handler() {
   return Deno.version
 }
